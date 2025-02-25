@@ -1,5 +1,5 @@
 ### Hola, soy Nico Alderete 👋  
-Soy un Analista de Datos apasionado por el análisis estadístico, la visualización de datos y la integración de coordenadas geográficas en proyectos innovadores.  
+Soy un Analista de Datos apasionado por el análisis estadístico y la visualización de datos.
 
 ### 💡 Me interesa:  
 - 📊 Análisis de datos y estadísticas avanzadas.  
