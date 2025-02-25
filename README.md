@@ -4,11 +4,7 @@ Soy un Analista de Datos apasionado por el análisis estadístico y la visualiza
 ### 💡 Me interesa:  
 - 📊 Análisis de datos y estadísticas avanzadas.  
 - 🌎 Visualización de datos
-- 📈 Exploración de machine learning y análisis predictivo.  
-
-### 🌱 Estoy aprendiendo:  
-- Python avanzado para análisis de datos.  
-- Herramientas de visualización como Plotly y Dash.  
+- 📈 Exploración de machine learning y análisis predictivo.    
 
 ### 📫 Puedes contactarme en:  
 - 📧 [o.nicolasalderete@gmail.com](mailto:o.nicolasalderete@gmail.com)  
