@@ -1,15 +1,14 @@
-### Hola, soy Nico Alderete 👋  
-Soy un Analista de Datos apasionado por el análisis estadístico y la visualización de datos.
+### Hi, I'm Nico Alderete 👋  
+I am a Data Analyst passionate about statistical analysis and data visualization.
 
-### 💡 Me interesa:
-- 🧹 Limpieza de datos  
-- 📊 Análisis y estadísticas avanzadas.  
-- 🌎 Visualización de datos
-- 📘 Aprendizaje Continuo    
+### 💡 I'm interested in:  
+- 🧹 Data Cleaning  
+- 📊 Advanced Analysis and Statistics  
+- 🌎 Data Visualization  
+- 📘 Continuous Learning  
 
-### 📫 Puedes contactarme en:  
+### 📫 You can contact me at:  
 - 📧 [o.nicolasalderete@gmail.com](mailto:o.nicolasalderete@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-alderete)  
 
 ---
-
