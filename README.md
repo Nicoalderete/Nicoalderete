@@ -1,4 +1,4 @@
-### Hola, soy Nicolás Alderete 👋  
+### Hola, soy Nico Alderete 👋  
 Soy un Analista de Datos apasionado por el análisis estadístico, la visualización de datos y la integración de coordenadas geográficas en proyectos innovadores.  
 
 ### 💡 Me interesa:  
