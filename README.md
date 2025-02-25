@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Nicolás Alderete 👋  
+Soy un Analista de Datos apasionado por el análisis estadístico, la visualización de datos y la integración de coordenadas geográficas en proyectos innovadores.  
 
-<!--
-**Nicoalderete/Nicoalderete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Me interesa:  
+- 📊 Análisis de datos y estadísticas avanzadas.  
+- 🌎 Visualización de datos
+- 📈 Exploración de machine learning y análisis predictivo.  
 
-Here are some ideas to get you started:
+### 🌱 Estoy aprendiendo:  
+- Python avanzado para análisis de datos.  
+- Herramientas de visualización como Plotly y Dash.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Puedes contactarme en:  
+- 📧 [o.nicolasalderete@gmail.com](mailto:o.nicolasalderete@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-alderete)  
+
+---
+
